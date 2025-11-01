@@ -1,0 +1,5 @@
+Remera,400,20
+Jeans,350,15
+Zapatos,200,35
+Buzos,200,10
+Campera,150,40
